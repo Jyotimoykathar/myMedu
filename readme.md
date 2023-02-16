@@ -24,7 +24,7 @@ This is an imaginary pharma website build with semantic HTML5 and CSS3 Ineuron-p
 ### Links
 
 - Code File URL: [github.com](https://github.com/Jyotimoykathar/myMedu)
-- Live Site URL: [netlify.app](https://project-15-product-design.netlify.app/)
+- Live Site URL: [netlify.app](https://mymedu.netlify.app/)
 
 ## My process
 
