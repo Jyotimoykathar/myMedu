@@ -52,7 +52,3 @@ Animation and JS need to be added to make the page more interactive and beautifu
 ## Author
 
 - Github page- [Jyotimoykathar](https://github.com/Jyotimoykathar/)
-
-## Acknowledgments
-
-Special Thanks to Ineuron team for the Project to learn and improve my CSS Grid and Media Querie skills.
