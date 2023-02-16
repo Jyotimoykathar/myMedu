@@ -1,6 +1,6 @@
 # PROJECT MYMEDU - Imaginary pharma company
 
-This is an imaginary pharma website build with semantic HTML5 and CSS3 Ineuron-projects.
+This is an imaginary pharma website build with semantic HTML5 and CSS3.
 
 ## Table of contents
 
