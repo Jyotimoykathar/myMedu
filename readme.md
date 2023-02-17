@@ -12,7 +12,6 @@ This is an imaginary pharma website build with semantic HTML5 and CSS3.
   - [Time required](#time-required)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
